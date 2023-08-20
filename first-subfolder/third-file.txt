@@ -1,1 +1,3 @@
 my third file in git
+
+Also changed in the main branch
